@@ -1,1 +1,2 @@
 Hi every one! This is second chapter.
+Changes from new-plot branch.
